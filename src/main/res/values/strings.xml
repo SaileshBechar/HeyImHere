@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ImHere</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="add_a_new_friend_button_text">Add a new Friend!</string>
+    <string name="title_text">Hey, Im Here!</string>
+    <string name="subtitle_text">Let your friends know...</string>
+    <string name="title_location_permission">Title</string>
+    <string name="text_location_permission">Permission Location</string>
+    <string name="ok">Okay</string>
+    <string name="use_location_buttontext">Set Location</string>
+    <string name="AutoSuggestHintText">Enter Address, City or Zip Code</string>
+    <string name="alert_title">Set Up User</string>
+    <string name="alert_name">Enter Name</string>
+    <string name="alert_number">Enter Phone Number</string>
+    <string name="friend_default_text">Add friend</string>
+    <string name="confirm_addphone">Confirm</string>
+    <string name="radius_addphone">Enter the radius (m)</string>
+</resources>
